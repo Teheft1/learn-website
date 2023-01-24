@@ -1,0 +1,28 @@
+h1 {
+    color:  black;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+a:link, a:active{
+    background-color: red;
+    padding: 12px 15px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    background-color: blue;
+    color:ghostwhite;
+    text-decoration: none;
+}
+p{
+    background-color: aqua;
+    text-decoration: solid;
+    padding: 18px 21px;
+    text-align: center;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
